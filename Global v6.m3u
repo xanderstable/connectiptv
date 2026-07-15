@@ -91,8 +91,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 #EXTINF:-1 tvg-id="Crime360PlutoTV.us" tvg-logo="https://i.imgur.com/IjtaG1m.png" group-title="Documentary",Crime 360 Pluto TV (1080p)
 https://jmp2.uk/plu-657880c46e4f6a00087404d0.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (1080p)
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-logo="https://i.natgeofe.com/n/1852daf6-1c8d-4428-8ee2-d9a82bd0401c/ng-border.png" group-title="Documentary",National Geographic (1080p)
 http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
 
-#EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo=https://images.seeklogo.com/logo-png/48/1/world-channel-logo-png_seeklogo-487951.png" group-title="Documentary",World Channel (1080p)
+#EXTINF:-1 tvg-id="WorldChannel.us" tvg-logo="https://images.seeklogo.com/logo-png/48/1/world-channel-logo-png_seeklogo-487951.png" group-title="Documentary",World Channel (1080p)
 https://world.lls.pbs.org/index.m3u8
