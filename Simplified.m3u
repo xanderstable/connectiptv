@@ -130,3 +130,6 @@ https://world.lls.pbs.org/index.m3u8
 
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-logo="https://promptacademy.in/wp-content/uploads/2026/01/Yahoo_Finance_logo.png" group-title="Business",Yahoo Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KMBYLD275.us@SD" tvg-logo="https://i.imgur.com/px0CSti.png" group-title="Music",Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
