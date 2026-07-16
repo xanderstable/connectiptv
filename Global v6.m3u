@@ -54,6 +54,8 @@ https://streams.comclark.com/pknsd/gtv/playlist.m3u8
 #EXTINF:-1 tvg-id="JeepneyTV.ph@SD" tvg-logo="https://i.imgur.com/RNxfhcc.png" group-title="PH",Jeepney TV (480p)
 https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cartoon Network.us" tvg-logo="https://i.pinimg.com/736x/96/35/0a/96350aa98fdece18b015253539761be8.jpg" group-title="Animation",Cartoon Network Adult Swim (1080p)
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="NickPlutoTV.us" tvg-logo="https://iili.io/bEAaaa.png" group-title="Animation",Nickelodeon Pluto TV (1080p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
