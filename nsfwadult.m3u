@@ -18,7 +18,11 @@ http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/243/manifest.m3u8
 #EXTINF:-1 tvg-id="TVPlayНашеXXX.us" tvg-logo="https://i.imgur.com/S2aMIUm.png" group-title="XXX",TVPlay Наше XXX
 http://ru.iptv.monster/play/1769/manifest.m3u8?token=623939143BE8A4B
 
-# === GAY http://gohyperspeed.com/live/1012180777/IUI2LzkHvx/500174207.m3u8  ===
-# === GAY http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6259/manifest.m3u8  ===
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="XXX",GAY
+http://gohyperspeed.com/live/1012180777/IUI2LzkHvx/500174207.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="XXX",GAY 1
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6259/manifest.m3u8
 
 
