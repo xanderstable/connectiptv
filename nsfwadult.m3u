@@ -30,6 +30,28 @@ http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/243/manifest.m3u8
 #EXTINF:-1 tvg-id="TVPlayНашеXXX.us" tvg-logo="https://i.imgur.com/S2aMIUm.png" group-title="XXX",TVPlay Наше XXX
 http://ru.iptv.monster/play/1769/manifest.m3u8?token=623939143BE8A4B
 
+
+#EXTINF:-1 tvg-id="JP1" tvg-logo="" group-title="XXX",JP 1
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
+
+#EXTINF:-1 tvg-id="JP2" tvg-logo="" group-title="XXX",JP 2
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/90
+
+#EXTINF:-1 tvg-id="JP3" tvg-logo="" group-title="XXX",JP 3
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/89
+
+#EXTINF:-1 tvg-id="JP4" tvg-logo="" group-title="XXX",JP 4
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/88
+
+#EXTINF:-1 tvg-id="JP5" tvg-logo="" group-title="XXX",JP 5
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/87
+
+#EXTINF:-1 tvg-id="JP6" tvg-logo="" group-title="XXX",JP 6
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/86
+
+#EXTINF:-1 tvg-id="JP7" tvg-logo="" group-title="XXX",JP 7
+http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
+
 # === GAY http://gohyperspeed.com/live/1012180777/IUI2LzkHvx/500174207.m3u8  ===
 # === GAY http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6259/manifest.m3u8  ===
 
