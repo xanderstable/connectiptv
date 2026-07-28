@@ -39,6 +39,9 @@ http://ru.iptv.monster/play/1768/manifest.m3u8?token=623939143BE8A4B
 #EXTINF:-1 tvg-id="PenthouseReality.us" tvg-logo="" group-title="XXX",Penthouse Reality
 http://ru.iptv.monster/play/8074/manifest.m3u8?token=623939143BE8A4B
 
+#EXTINF:-1 tvg-id="PenthouseGold.us" tvg-logo="" group-title="XXX",Penthouse Gold
+http://rr3.tvdosug.net/~201c530646afaf2b318ce39031c622e319c/95026/hls/pl.m3u8
+
 #EXTINF:-1 tvg-id="PlayboyTV.us" tvg-logo="https://i.imgur.com/6cfsDVS.png" group-title="XXX",Playboy TV (1080p)
 http://d029dcec.kazmazpaz.ru/iptv/RL8MVW8UX8NNXK/527/manifest.m3u8
 
@@ -51,8 +54,14 @@ http://a0bn5xro.rostelekom.xyz/iptv/D7FCL5T9NEFZVT/242/index.m3u8
 #EXTINF:-1 tvg-id="PrivateTV.us@SD" tvg-logo="https://i.imgur.com/z8JAZiX.png" group-title="XXX",Private TV
 http://d029dcec.kazmazpaz.ru/iptv/CRKBTYRXLLNSEF/243/manifest.m3u8
 
+#EXTINF:-1 tvg-id="THT International.us" tvg-logo="" group-title="XXX",THT International
+http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6259/manifest.m3u8
+
 #EXTINF:-1 tvg-id="TVPlayНашеXXX.us" tvg-logo="https://i.imgur.com/S2aMIUm.png" group-title="XXX",TVPlay Наше XXX
 http://ru.iptv.monster/play/1769/manifest.m3u8?token=623939143BE8A4B
+
+#EXTINF:-1 tvg-id="VividRed.us" tvg-logo="" group-title="XXX",Vivid Red
+http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/2162/manifest.m3u8
 
 #EXTINF:-1 tvg-id="РусскаяНочь.ru" tvg-logo="" group-title="XXX",Русская Ночь
 http://ru.iptv.monster/play/132/manifest.m3u8?token=75BA4FC1CA5013E
@@ -62,6 +71,9 @@ http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/6215/manifest.m3u8
 
 #EXTINF:-1 tvg-id="РусскаяНочь.ru" tvg-logo="" group-title="XXX",Русская Ночь
 http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/147/manifest.m3u8
+
+#EXTINF:-1 tvg-id="ЦентральноеТВRU.ru" tvg-logo="" group-title="XXX",Центральное ТВ RU
+http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/20090/manifest.m3u8
 
 #EXTINF:-1 tvg-id="JP1" tvg-logo="" group-title="XXX",JP 1
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
