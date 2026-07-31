@@ -592,6 +592,19 @@ http://15.204.230.229/NBATV/index.m3u8
 #EXTINF:-1 tvg-id="NBC.us@SD" tvg-logo="https://i.imgur.com/pEHgxgq.png" group-title="Entertainment", NBC
 http://170.254.17.2:80/NBC/index.m3u8
 
+#EXTINF:-1 tvg-id="OWNEast.us" tvg-logo="https://i.imgur.com/DMJk2ac.png" group-title="Entertainment", OWN East
+http://206.212.244.63/135/index.m3u8
+#EXTINF:-1 tvg-id="OWNEast1.us" tvg-logo="https://i.imgur.com/DMJk2ac.png" group-title="Entertainment", OWN East sub ch1
+http://40.160.24.55/OWN/index.m3u8
+#EXTINF:-1 tvg-id="OWNEast2.us" tvg-logo="https://i.imgur.com/DMJk2ac.png" group-title="Entertainment", OWN East sub ch2
+http://23.237.104.106:8080/USA_OWN/index.m3u8
+#EXTINF:-1 tvg-id="OWNEast3.us" tvg-logo="https://i.imgur.com/DMJk2ac.png" group-title="Entertainment", OWN East sub ch3
+https://restream-live.realiptv.to/1234567/7654321/3675
+#EXTINF:-1 tvg-id="OWNWest.us" tvg-logo="https://i.imgur.com/DMJk2ac.png" group-title="Entertainment", OWN West
+https://restream-live.realiptv.to/1234567/7654321/631868
+#EXTINF:-1 tvg-id="OWNWest1.us" tvg-logo="https://i.imgur.com/DMJk2ac.png" group-title="Entertainment", OWN West sub ch1
+https://restream-live.realiptv.to/1234567/7654321/3755
+
 #EXTINF:-1 tvg-chno="120" tvg-id="Paramount.Network.HD.us2" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="TV",Paramount Network
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
@@ -736,9 +749,14 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 
 # === 24/7 ==
 
-#EXTINF:-1 tvg-id="ZeeOne.uk@UK" tvg-logo="" group-title="Series", 24/7 Black Files Declassified
+#EXTINF:-1 tvg-logo="" group-title="Series",24/7 Black Files Declassified
 https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/331669
-
+#EXTINF:-1 tvg-logo="" group-title="Series",24/7 Birds Of Prey
+https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/511279
+#EXTINF:-1 tvg-logo="" group-title="Series",24/7 Black Mirror
+https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/30683
+#EXTINF:-1 tvg-logo="" group-title="Series",24/7 Black Love
+https://restream-live.realiptv.to/monstercable/Dq6jjknxCr/331670
 
 # === NK ===
 
