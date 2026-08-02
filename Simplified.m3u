@@ -786,8 +786,6 @@ https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/a
 http://4.30.180.36:8420/movies/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",PBS KIDS
 http://4.30.180.36:8420/kids/index.m3u8?token=test
-#EXTINF:-1 tvg-id="WNJUDT.us" tvg-logo="" group-title="TV",WNJUDT
-http://4.30.180.36:8420/wnjudt/index.m3u8?token=test
 #EXTINF:-1 tvg-id="WNET21.1.us" tvg-logo="" group-title="TV",WNET 21.1
 http://4.30.180.36:8420/wnethd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="WJLP37.1.us" tvg-logo="" group-title="TV",WJLP 37.1
@@ -808,10 +806,6 @@ http://4.30.180.36:8420/nbc/index.m3u8?token=test
 http://4.30.180.36:8420/kids/index.m3u8?token=test
 #EXTINF:-1 tvg-id="WPXNTV31.1.us" tvg-logo="" group-title="TV",WPXN-TV 31.1
 http://4.30.180.36:8420/ion/index.m3u8?token=test
-#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WFUT-DT 68.1
-http://4.30.180.36:8420/wfutdt/index.m3u8?token=test
-#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WNJU 47.2
-http://4.30.180.36:8420/telex/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WPXN-TV 31.5
 http://4.30.180.36:8420/qvc/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WWOR-TV 9.4
@@ -842,10 +836,6 @@ http://4.30.180.36:8420/nbc/index.m3u8?token=test
 http://4.30.180.36:8420/kids/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WPXN-TV 31.1
 http://4.30.180.36:8420/ion/index.m3u8?token=test
-#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WFUT-DT 68.1
-http://4.30.180.36:8420/wfutdt/index.m3u8?token=test
-#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WNJU 47.2
-http://4.30.180.36:8420/telex/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WWOR-TV 9.4
 http://4.30.180.36:8420/heroes/index.m3u8?token=test
 #EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WFUT-DT 68.3
