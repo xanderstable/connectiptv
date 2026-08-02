@@ -183,6 +183,12 @@ https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 #EXTINF:-1 tvg-id="00sReplay.us@SD" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" group-title="Movies",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 
+#EXTINF:-1 tvg-id="1000WaysToDie.us" tvg-logo="" group-title="Series",1000 Ways To Die
+http://hardcoremedia.xyz:80/nrzepqom/vGruK584wr/252046
+
+#EXTINF:-1 tvg-id="100Humans.us" tvg-logo="" group-title="Series",100 Humans
+http://hardcoremedia.xyz:80/nrzepqom/vGruK584wr/252462
+
 #EXTINF:-1 tvg-id="24HourFreeMovies.us@SD" tvg-logo="https://i.imgur.com/iSVnzR1.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Movies",24 Hour Free Movies (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 https://d1b5mlajbmvkjv.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-DistroTV/145.m3u8?ads.vf=7FhdsxqVxOi
@@ -225,12 +231,19 @@ https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
 https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
 
 
+#EXTINF:-1,5.Star.Max
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1,5.Star.Max sub ch1
+http://40.160.24.52/5_STARMAX/index.m3u8
+
 
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-name="A&E TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s51529_dark_360w_270h.png" group-title="TV",A&E TV
 http://23.239.31.26:8989/aande/index.m3u8
 
 #EXTINF:-1 tvg-id="WFTS-DT.us_locals1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="TV",ABC
 http://stream.cammonitorplus.net/1758/index.m3u8
+#EXTINF:-1 tvg-id="ABCsubch1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="TV",ABC sub ch1
+http://40.160.24.52/ABC/index.m3u8
 
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
 http://23.237.104.106:8080/USA_ACCN/mpegts
@@ -240,6 +253,9 @@ http://23.239.31.26:8989/amc/index.m3u8
 
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="TV",Animal Planet
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+
+#EXTINF:-1 tvg-id="Animal.Planet.subch1.us2" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="TV",Animal Planet sub ch1
+http://23.239.31.26:8989/animalplanet/index.m3u8
 
 #EXTINF:-1 tvg-id="PBSAntiquesRoadshow.us@SD" tvg-logo="https://i.imgur.com/U9CYaok.png" group-title="Series",Antiques Roadshow PBS (1080p)
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
@@ -262,7 +278,8 @@ http://5.57.74.130:8000/play/a0at/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://82.78.243.219:45739/play/a00n/index.m3u8
 
-
+#EXTINF:-1 tvg-id="BBC.America.HD.us" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="TV",BBC America
+http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-name="BBC World News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89542_dark_360w_270h.png" group-title="TV",BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="DoctorWhoClassic.us@US" tvg-logo="https://i.imgur.com/JIqJQQM.png" group-title="Series",BBC Doctor Who Classic (1080p)
@@ -345,6 +362,10 @@ https://59d39900ebfb8.streamlock.net/ccbn/ccbn/playlist.m3u8
 https://fastly.live.brightcove.com/6380396819112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk2ODE5MTEyIn0.GDYp4IWtzwPkupEWeeOavnioVknO-Ev3UGlHvM1rE6I/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CBNTV.vg@SD" tvg-logo="https://i.imgur.com/SHBAblV.png" group-title="General",CBN TV (720p)
 https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBSSports.us" tvg-logo="" group-title="Sports",CBS Sports
+http://4.30.180.36:8420/cbs/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="KUTV21.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="General",CBS 2 Salt Lake City UT (KUTV) (1080p)
 https://linear-707.frequency.stream/dist/stirr/707/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WWMT31.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" group-title="Undefined",CBS 3 Kalamazoo MI (WWMT) (1080p)
@@ -418,6 +439,12 @@ https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ChristianYouthChannelCYC.us@SD" tvg-logo="https://i.imgur.com/61eV77C.png" group-title="Kids;Religious",Christian Youth Channel (CYC) (1080p)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-name="Cinemax" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="TV",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.ActionMaxEast.us2" tvg-logo="" group-title="TV",Cinemax Action Max East
+http://206.212.244.63/6156/index.m3u8
+
 #EXTINF:-1 tvg-id="Circle.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Circle_Network_logo.svg/960px-Circle_Network_logo.svg.png" group-title="Entertainment",Circle (1080p)
 https://circle-roku.amagi.tv/playlist.m3u8
 
@@ -425,6 +452,12 @@ https://circle-roku.amagi.tv/playlist.m3u8
 https://reflect-monroe-mi-ci.cablecast.tv/live-1/live/live.m3u8
 #EXTINF:-1 tvg-id="KTOP.us@SD" tvg-logo="https://i.imgur.com/duM548G.png" group-title="Legislative",City of Oakland (KTOP) (480p)
 https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="TV",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id="Comedy.Central.East.us2" tvg-name="Comedy Central" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="TV",Comedy Central East
+http://206.212.244.63/44/index.m3u8
 
 #EXTINF:-1 tvg-id="CourtTV.us" tvg-logo="https://i.imgur.com/qkfe3o9.png" group-title="Documentary",Court TV (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
@@ -447,6 +480,8 @@ http://206.212.244.63/61/index.m3u8
 #EXTINF:-1 tvg-id="FilmRiseClassicTV.us@SD" tvg-logo="https://i.imgur.com/8j2npVc.png" group-title="Classic",FilmRise Classic TV (720p)
 https://d2tv4k5moji5m7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lu4pzh9l4b57p/master.m3u8
 
+#EXTINF:-1 tvg-id="Globo.us" group-title="TV",Globo
+https://panel.dattalive.com/8122/8122/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO.SD.us2" tvg-logo="" group-title="TV",HBO SD
 http://40.160.24.58/HBO_SD/index.m3u8
@@ -747,6 +782,80 @@ https://yta.unitedteleports.tv/hls/YTA.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One (1080p)
 https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
 
+#EXTINF:-1 tvg-id="WNYW52MOVIES.us" tvg-logo="" group-title="TV",WNYW 5|2 MOVIES
+http://4.30.180.36:8420/movies/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",PBS KIDS
+http://4.30.180.36:8420/kids/index.m3u8?token=test
+#EXTINF:-1 tvg-id="WNJUDT.us" tvg-logo="" group-title="TV",WNJUDT
+http://4.30.180.36:8420/wnjudt/index.m3u8?token=test
+#EXTINF:-1 tvg-id="WNET21.1.us" tvg-logo="" group-title="TV",WNET 21.1
+http://4.30.180.36:8420/wnethd/index.m3u8?token=test
+#EXTINF:-1 tvg-id="WJLP37.1.us" tvg-logo="" group-title="TV",WJLP 37.1
+http://4.30.180.36:8420/metv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="WJLP.us" tvg-logo="" group-title="TV",WJLP 33.2
+http://4.30.180.36:8420/laff/index.m3u8?token=test
+#EXTINF:-1 tvg-id="WPXN-TV31.6.us" tvg-logo="" group-title="TV",WPXN-TV 31.6
+http://4.30.180.36:8420/hsn/index.m3u8?token=test
+#EXTINF:-1 tvg-id="WNBC47.2.us" tvg-logo="" group-title="TV",WNBC 47.2
+http://4.30.180.36:8420/cozitv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="WPXNTV31.2.us" tvg-logo="" group-title="TV",WPXN-TV 31.2
+http://4.30.180.36:8420/bounce/index.m3u8?token=test
+#EXTINF:-1 tvg-id="WCBSTV21.2.us" tvg-logo="" group-title="TV",WCBS-TV 21.2
+http://4.30.180.36:8420/starttv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="WNBC47.1.us" tvg-logo="" group-title="TV",WNBC 47.1
+http://4.30.180.36:8420/nbc/index.m3u8?token=test
+#EXTINF:-1 tvg-id="WNET13.2.us" tvg-logo="" group-title="TV",WNET 13.2
+http://4.30.180.36:8420/kids/index.m3u8?token=test
+#EXTINF:-1 tvg-id="WPXNTV31.1.us" tvg-logo="" group-title="TV",WPXN-TV 31.1
+http://4.30.180.36:8420/ion/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WFUT-DT 68.1
+http://4.30.180.36:8420/wfutdt/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WNJU 47.2
+http://4.30.180.36:8420/telex/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WPXN-TV 31.5
+http://4.30.180.36:8420/qvc/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WWOR-TV 9.4
+http://4.30.180.36:8420/heroes/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WFUT-DT 68.3
+http://4.30.180.36:8420/gettv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WWOR-TV 9.3
+http://4.30.180.36:8420/buzzr/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WCBS-TV 2.1
+http://4.30.180.36:8420/cbs/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WABC-TV 7.1
+http://4.30.180.36:8420/abc/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WJLP 37.1
+http://4.30.180.36:8420/metv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WJLP 33.2
+http://4.30.180.36:8420/laff/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WPXN-TV 31.6
+http://4.30.180.36:8420/hsn/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WNBC 47.2
+http://4.30.180.36:8420/cozitv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WPXN-TV 31.2
+http://4.30.180.36:8420/bounce/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WCBS-TV 21.2
+http://4.30.180.36:8420/starttv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WNBC 47.1
+http://4.30.180.36:8420/nbc/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WNET 13.2
+http://4.30.180.36:8420/kids/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WPXN-TV 31.1
+http://4.30.180.36:8420/ion/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WFUT-DT 68.1
+http://4.30.180.36:8420/wfutdt/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WNJU 47.2
+http://4.30.180.36:8420/telex/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WWOR-TV 9.4
+http://4.30.180.36:8420/heroes/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WFUT-DT 68.3
+http://4.30.180.36:8420/gettv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WWOR-TV 9.3
+http://4.30.180.36:8420/buzzr/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WCBS-TV 2.1
+http://4.30.180.36:8420/cbs/index.m3u8?token=test
+#EXTINF:-1 tvg-id="PBSKids.us" tvg-logo="" group-title="TV",WABC-TV 7.1
+http://4.30.180.36:8420/abc/index.m3u8?token=test
 
 
 # === NK ===
