@@ -1,7 +1,5 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="test.ph@SD" tvg-logo="" group-title="PH",test broadcast
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1785856676/ei/RK5xaquABvOy2roPpdPP4QU/ip/112.201.207.138/id/q07Q8JTMaEc.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/ctier/A/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/hightc/yes/ss/1/ssa/1/siu/1/bui/AZFlqhPtTkkLB7qf4Rq6fCuSEC1QZPt0u9ovcAT8BXCPrRmGKHExNXECNozYWRFKEiDn84nFEg/spc/KBGBchoNBjsWy6ruvlfGRiFte6K_bMHJhSIQTKMcjZYR__57Alm5nKI/vprv/1/go/1/ns/hzEWQv_0KeWhQnRu-AEYwfQX/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51973819/dover/11/n/_1Hzq2G9Yxy_sLdbr7/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Chightc%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AE0s2JYwRQIgJFSc1ol3jJF6TaeWmE1EG2XEendf5taGICsrRzhjdDICIQCdEftIay8JSn4B3WBb9P1CnvAe6Fmr4gCD5Q5D7QTHDg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-id="A2Z.ph@SD" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="PH",A2Z (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/a2z/playlist.m3u8
