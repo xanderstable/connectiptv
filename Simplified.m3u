@@ -596,6 +596,9 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 tvg-id="Globo.us" group-title="TV",Globo
 https://panel.dattalive.com/8122/8122/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="TV",Hallmark Channel
+http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO.SD.us2" tvg-logo="" group-title="TV",HBO SD
 http://40.160.24.58/HBO_SD/index.m3u8
 
@@ -706,6 +709,12 @@ https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/la
 #EXTINF:-1 tvg-id="" tvg-logo="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2025/11/fast-banner-art-logo.png?w=500" group-title="Documentary",Xtreme Outdoor Presented by HISTORY (720p)
 https://dxagbr7yc4m1d.cloudfront.net/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HLN.HD.us2" tvg-name="HLN TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="TV",HLN TV
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-name="Lifetime Movie Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="TV",Lifetime Movie Network
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+
 #EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/3vsBZI3.png" group-title="XXX", Miami TV Jenny Live
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 
@@ -727,6 +736,12 @@ http://23.237.104.106:8080/USA_MTV/index.m3u8
 
 #EXTINF:-1 tvg-id="PlutoTVYoMTV.us" tvg-logo="https://i.imgur.com/PfMTBjy.png" group-title="Music", Yo! MTV Pluto TV
 https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
+
+#EXTINF:-1 tvg-id="MTVClassic.us@CA" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Music",Pluto TV MTV Classic (720p)
+
+#EXTINF:-1 tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" group-title="TV",MSG
+http://23.237.104.106:8080/USA_MSG/index.m3u8
+
 
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-logo="https://i.natgeofe.com/n/1852daf6-1c8d-4428-8ee2-d9a82bd0401c/ng-border.png" group-title="Documentary",National Geographic (1080p)
 http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
@@ -791,7 +806,7 @@ https://jmp2.uk/plu-64b585f84ea480000838e446.m3u8
 https://jmp2.uk/plu-5d8beeb39b5d5d5f8c672530.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMilitary.us@SD" tvg-logo="https://i.imgur.com/O8VXZB4.png" group-title="Series",Pluto TV Military
 https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
-#EXTINF:-1 tvg-id="MTVClassic.us@CA" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Music",Pluto TV MTV Classic (720p)
+
 https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.us@US" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="Documentary",Pluto TV Paranormal
 https://jmp2.uk/plu-5adf96e3e738977e2c31cb04.m3u8
