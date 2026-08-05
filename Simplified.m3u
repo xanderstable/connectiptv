@@ -850,9 +850,13 @@ https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 #EXTINF:-1 tvg-id="MTVClassic.us@CA" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Music",Pluto TV MTV Classic (720p)
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
 
+
+
 #EXTINF:-1 tvg-id="MSG.National.us2" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" group-title="TV",MSG
 http://23.237.104.106:8080/USA_MSG/index.m3u8
 
+#EXTINF:-1 tvg-id="MysteryTV.us@UK" tvg-logo="https://i.imgur.com/K4gwstM.png" group-title="Entertainment",Mystery TV (1080p)
+https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.us" tvg-logo="https://i.natgeofe.com/n/1852daf6-1c8d-4428-8ee2-d9a82bd0401c/ng-border.png" group-title="Documentary",National Geographic (1080p)
 http://rezofoot.tv/NATIONAL-GEOGRAPHIC/index.m3u8
