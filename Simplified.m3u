@@ -318,14 +318,14 @@ https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1 tvg-id="48Hours.us@US" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Series",48 Hours (1080p)
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 
-#EXTINF:-1,5.Star.Max
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fp36Zy6.png",5.Star.Max
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:-1,5.Star.Max sub ch1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fp36Zy6.png",5.Star.Max sub ch1
 http://40.160.24.52/5_STARMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",60 Days In by A&E (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XQUpmuI.png" group-title="Series",60 Days In by A&E (720p)
 https://d2b8jic9gadlvy.cloudfront.net/v1/aenetworks_60daysin_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Series",60 Days in Jail (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6UTEtzh.png" group-title="Series",60 Days in Jail (720p)
 https://39328386.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl82MERheXNJbklOVExfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="7080TV.it@SD" tvg-logo="https://i.imgur.com/y4kNV3Q.png" group-title="Music",70-80 TV (1080P)
@@ -338,9 +338,9 @@ http://23.239.31.26:8989/aande/index.m3u8
 http://stream.cammonitorplus.net/1758/index.m3u8
 #EXTINF:-1 tvg-id="ABCsubch1" tvg-name="ABC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="TV",ABC sub ch1
 http://40.160.24.52/ABC/index.m3u8
-#EXTINF:-1 tvg-id="WMARTV21.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png" group-title="News",ABC 2 Baltimore MD (WMAR) (720p)
+#EXTINF:-1 tvg-id="WMARTV21.us@HD" tvg-logo="https://i.imgur.com/tPUEGK2.png" group-title="News",ABC 2 Baltimore MD (WMAR) (720p)
 https://aegis-cloudfront-1.tubi.video/c28d1ca8-9467-4798-81dc-09c1d6e90be1/playlist.m3u8
-#EXTINF:-1 tvg-id="KATU321.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" group-title="General",ABC 2 Portland OR (KATU) (1080p)
+#EXTINF:-1 tvg-id="KATU321.us@HD" tvg-logo="https://i.imgur.com/tVIs2g5.png" group-title="General",ABC 2 Portland OR (KATU) (1080p)
 https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="WCIV361.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png" group-title="Undefined",ABC 4 Charleston SC (WCIV) (1080p)
 https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
