@@ -25,7 +25,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="PH", Animax Asia
 http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApUjG9Pouw9ZPY2OjOhRVs72%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001853&contentid=ch00000000000000001853&videoid=ch00000090990000001315&recommendtype=0&userid=1839722974667&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKNK24RBBRLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-#EXTINF:-1 tvg-logo="" group-title="PH", Asian Food Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VRugxtN.png" group-title="PH", Asian Food Network
 https://thinkkast.dpdns.org/thinkkast/asianfoodnetwork_sd/versiglia/index.m3u8
 #EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph@SD" tvg-logo="https://i.imgur.com/iTH9Z0j.png" group-title="PH",Bilyonaryo News Channel (1080p)
 https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
