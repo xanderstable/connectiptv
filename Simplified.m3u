@@ -275,7 +275,6 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 
 #EXTINF:-1 tvg-id="NickelodeonCignal.ph" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="PH",Nickelodeon Asia (Cignal)
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 https://thinkkast.dpdns.org/thinkkast/dr_nickelodeon/versiglia/index.m3u8
 
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Animation",Nick Jr Pluto TV (1080p)
