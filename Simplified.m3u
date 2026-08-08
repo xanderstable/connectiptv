@@ -166,7 +166,7 @@ http://136.239.159.20:6610/001/2/ch00000090990000001081/sec-f2-v1-a1.m3u8?JITPDR
 #EXTINF:-1 tvg-id="StarTelevision.ph" tvg-logo="https://i.imgur.com/lmCgYoH.png" group-title="PH",Star Television PH
 https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8
 
-#EXTINF:-1 tvg-id="StarTV.ph" tvg-logo="https://i.imgur.com/GtcFFFZ.png" group-title="PH",Star TV PH
+#EXTINF:-1 tvg-id="StarTV.ph" tvg-logo="https://i.imgur.com/DKnnJ0Y.png" group-title="PH",Star TV PH
 https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8
 
 #EXTINF:-1 tvg-id="TagalizedMovieChannel.ph@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Tmc2021logo.png/revision/latest/scale-to-width-down/250?cb=20240612121607" group-title="PH",Tagalized Movie Channel
