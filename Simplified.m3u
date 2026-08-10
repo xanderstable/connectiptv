@@ -99,6 +99,8 @@ https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
 https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
 #EXTINF:-1 tvg-id="HypeTV.ph" tvg-logo="https://i.imgur.com/inecSyY.png" group-title="PH",Hype TV
 https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8
+#EXTINF:-1 tvg-id="HypeTVsub1.ph" tvg-logo="https://i.imgur.com/inecSyY.png" group-title="PH",Hype TV sub ch1
+https://live20.bozztv.com/giatvplayout7/giatv-211468/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="INCTV.ph@HD" tvg-logo="https://image.pngaaa.com/560/4128560-middle.png" group-title="PH",INCTV (720p) [Geo-blocked]
 http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" group-title="Travel",InTravel (1080p)
@@ -160,8 +162,15 @@ http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 #EXTINF:-1 tvg-id="SinePlus.ph" tvg-logo="https://i.imgur.com/O7THfms.png" group-title="PH",SinePlus
 https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8
 
+#EXTINF:-1 tvg-id="SinePlusvariant2.ph" tvg-logo="https://i.imgur.com/O7THfms.png" group-title="PH",SinePlus var 2
+https://san-mateo-cable.ostamark484.workers.dev/SINEPLUS.m3u8
+
 #EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://i.imgur.com/WL2ugeZ.png" group-title="PH",SMNI Channel
 http://136.239.173.10:6610/001/2/ch00000090990000001155/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bop4OXrlwmfDc6Bu48vA%2B4AytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001335&contentid=ch00000000000000001335&videoid=ch00000090990000001155&recommendtype=0&userid=1436446282400&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZCER3GW1NZPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="SMMC.ph" tvg-logo="https://i.imgur.com/IbEeBza.png",SMMC TV
+https://startelevisionmmcdi.sanmateocable1.workers.dev/smmctv/alltv-master/live.m3u8
+
 
 #EXTINF:-1 tvg-id="Solarflix.ph@SD" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="PH", Solarflix
 http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpbUxUxZzyq5Czg7gUnQAcvytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001543&contentid=ch00000000000000001543&videoid=ch00000090990000001243&recommendtype=0&userid=1633620334084&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B91ZY82QQ8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -172,7 +181,7 @@ http://136.239.159.20:6610/001/2/ch00000090990000001081/sec-f2-v1-a1.m3u8?JITPDR
 #EXTINF:-1 tvg-id="StarTelevision.ph" tvg-logo="https://i.imgur.com/lmCgYoH.png" group-title="PH",Star Television PH
 https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8
 
-#EXTINF:-1 tvg-id="StarTV.ph" tvg-logo="https://i.imgur.com/DKnnJ0Y.png" group-title="PH",Star TV PH
+#EXTINF:-1 tvg-id="StarTV.ph" tvg-logo="https://i.imgur.com/jHA1ELs.png" group-title="PH",Star TV PH
 https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8
 
 #EXTINF:-1 tvg-id="TagalizedMovieChannel.ph@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Tmc2021logo.png/revision/latest/scale-to-width-down/250?cb=20240612121607" group-title="PH",Tagalized Movie Channel
@@ -259,6 +268,9 @@ http://103.36.17.18:8000/stream
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
 http://ph-icecast.eradioportal.com:8000/energyfm_manila
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XuIuL7k.png" group-title="Ph Live Radio",SDTV Radio
+https://usa2.server2028.com/hls/sdtv_radio/live.m3u8
 
 # === END ====
 
