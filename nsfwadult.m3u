@@ -42,6 +42,9 @@ http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/9346/manifest.m3u8
 #EXTINF:-1 tvg-id="GonzoCom.us" tvg-logo="https://i.imgur.com/Wdz3Xs7.png" group-title="XXX",Gonzo Com (1080p)
 http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/20090/manifest.m3u8
 
+#EXTINF:-1, GOTMYLF
+http://theikhoun.live/dp4CmeUofw/fluid6equipment/349950
+
 #EXTINF:-1 tvg-id="Hustler.us@SD" tvg-logo="" group-title="XXX",Hustler
 http://a0bn5xro.rostelekom.xyz/iptv/EDTZN7ANS84N86/244/index.m3u8
 
@@ -71,9 +74,6 @@ http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6259/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TVPlayНашеXXX.us" tvg-logo="https://i.imgur.com/S2aMIUm.png" group-title="XXX",TVPlay Наше XXX
 http://ru.iptv.monster/play/1769/manifest.m3u8?token=623939143BE8A4B
-
-#EXTINF:-1 tvg-id="Venus" tvg-logo="" group-title="XXX",Venus
-http://200.229.147.210:9999/play/a05m/index.m3u8
 
 #EXTINF:-1 tvg-id="VividRed.us" tvg-logo="" group-title="XXX",Vivid Red
 http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/2162/manifest.m3u8
@@ -113,4 +113,5 @@ http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/85
 
 # === GAY http://gohyperspeed.com/live/1012180777/IUI2LzkHvx/500174207.m3u8  ===
 # === GAY http://88b9da48.kazmazpaz.ru:80/iptv/5KLVA2TCEWQTMK/6259/manifest.m3u8  ===
+
 
