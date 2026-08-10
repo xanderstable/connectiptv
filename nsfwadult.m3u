@@ -90,6 +90,9 @@ http://d029dcec.kazmazpaz.ru/iptv/VZEVDE3KMBMVGUR9Y2EEL7EF/147/manifest.m3u8
 #EXTINF:-1 tvg-id="ЦентральноеТВRU.ru" tvg-logo="" group-title="XXX",Центральное ТВ RU
 http://d029dcec.kazmazpaz.ru/iptv/5KLVA2TCEWQTMK/20090/manifest.m3u8
 
+#EXTINF:-1 ,россия Girls Gone Pink
+http://theikhoun.live/dp4CmeUofw/fluid6equipment/349883
+
 #EXTINF:-1 tvg-id="JP1" tvg-logo="" group-title="XXX",JP 1
 http://15.204.105.50:25461/G2s9zK2n9m/xDtwVfWM8T/117
 
