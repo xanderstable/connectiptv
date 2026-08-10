@@ -35,9 +35,11 @@ https://animax.live/hls/stream.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/5EmfGFw.png" group-title="PH", Asiaflix TV
 https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VRugxtN.png" group-title="PH", Asian Food Network (Cignal)
-https://thinkkast.dpdns.org/udp/stb7395/asianfoodnetwork_sd/main/index.m3u8?st=1786340319295&token=0d72ed84
+https://thinkkast.dpdns.org/udp/stb7395/asianfoodnetwork_sd/main/index.m3u8?st=1786404660523&exp=1786405260523&token=d0f3d621
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qDMmhpL.png" group-title="PH",AXN Asia (Cignal)
 https://thinkkast.dpdns.org/udp/stb7395/cg_axn_sd/main/index.m3u8?st=1786342974512&token=f5a6b5bf
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RMHDhII.png" group-title="PH",Bigscreen TV
+https://bigscreentv.itunerworldwide.workers.dev/master.live.m3u8
 #EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph@SD" tvg-logo="https://i.imgur.com/iTH9Z0j.png" group-title="PH",Bilyonaryo News Channel (1080p)
 https://streams.comclark.com/transcode/bilyonaryo/playlist.m3u8
 #EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph" tvg-logo="https://i.imgur.com/iTH9Z0j.png" group-title="PH",Bilyonaryo News Channel sub ch1
@@ -78,6 +80,8 @@ http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v8
 http://136.158.97.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAorTFLlVQhyuanlrUuZnA07syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1908252107440&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1K7CIFTC44QXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447320260101155238274429&ispcode=55
 #EXTINF:-1 tvg-id="EdgeSport.ph@SD" tvg-logo="https://i.imgur.com/s4wjW7n.png" group-title="Sports",Edge Sport PH (SD)
 http://136.239.158.18:6610/001/2/ch00000090990000001406/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=HLS&JITPDRMType=NO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PSNp8VF.png" group-title="PH",Epic One TV
+https://epiconetv.itunerworldwide.workers.dev/master.live.m3u8
 #EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="General",FilAmTV Network (1080p)
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 
@@ -141,6 +145,8 @@ https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-id="PTN.ph" tvg-logo="https://i.imgur.com/W3rUGeQ.png" group-title="PH",PTN
 https://sdtvnetworkph.sanmateocable.workers.dev/master.live.m3u8
+#EXTINF:-1 tvg-id="PTNsub1.ph" tvg-logo="https://i.imgur.com/W3rUGeQ.png" group-title="PH",PTN sub ch1
+https://ptnglobal.sanmateocable.workers.dev/master.live.m3u8
 #EXTINF:-1 tvg-id="PTV.ph@SD" tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="PH",PTV 4 (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/ptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RockAction.ph@SD" tvg-name="Rock Action" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="PH",Rock Entertainment
@@ -177,6 +183,9 @@ http://136.239.159.18:6610/001/2/ch00000090990000001243/manifest.mpd?AuthInfo=v8
 
 #EXTINF:-1 tvg-id="SolarSports.ph@SD" tvg-logo="https://i.imgur.com/F2T1Iqq.png" group-title="PH",Solar Sports (480p)
 http://136.239.159.20:6610/001/2/ch00000090990000001081/sec-f2-v1-a1.m3u8?JITPDRMType=NO&IASHttpSessionId=OTT50164020260525065500074400&AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApTfGIKxFqRM2tu30PzY%2FKksyK4TH4mOENKJ45mwOyS0g%3D%3D&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=55&ztecid=ch00000090990000001081
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TedGd75.png" group-title="PH",South Star TV
+https://southstartv.itunerworldwide.workers.dev/master.live.m3u8
 
 #EXTINF:-1 tvg-id="StarTelevision.ph" tvg-logo="https://i.imgur.com/lmCgYoH.png" group-title="PH",Star Television PH
 https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8
@@ -271,6 +280,9 @@ http://ph-icecast.eradioportal.com:8000/energyfm_manila
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XuIuL7k.png" group-title="Ph Live Radio",SDTV Radio
 https://usa2.server2028.com/hls/sdtv_radio/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XuIuL7k.png" group-title="Ph Live Radio",SDTV Radio sub ch1
+https://usa2.server2028.com/listen/sdtv_radio/radio.mp3
 
 # === END ====
 
