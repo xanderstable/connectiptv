@@ -84,14 +84,13 @@ http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87H
 #EXTINF:-1 tvg-logo="https://magmediaintl.com/images/logochannels/Hallypop%20Logo.png" group-title="PH",GMA Hallypop
 http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrQQqEzMGzqacd7xs%2FVYEXbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001373&contentid=ch00000000000000001373&videoid=ch00000090990000001152&recommendtype=0&userid=1181864451786&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9VC3RX5W7QLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcVmCm0.png" group-title="PH",GMA Heart of Asia
-https://nokotan.anhkz.fr/play/idn5f560977/6a792384110083ef5333568e.m3u8?q=d0475082894a131707d75e3ae57d6608
+https://nokotan.anhkz.fr/channel/n5f560977/index.m3u8?q=d0475082894a131707d75e3ae57d6608
 #EXTINF:-1 tvg-id="GTV.ph@SD" tvg-logo="https://i.imgur.com/rWhamwh.png" group-title="PH",GTV (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/gtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r9dMc6l.png" group-title="PH",GMA I Heart Movies
-https://nokotan.anhkz.fr/play/idn696d5dc/6a79629c110083ef533356e2.m3u8?q=d0475082894a131707d75e3ae57d6608
-
 #EXTINF:-1 tvg-id="GTVSubch1.ph" tvg-logo="https://i.imgur.com/rWhamwh.png" group-title="PH",GTV sub ch1
-https://nokotan.anhkz.fr/play/idn2392e601/6a796255110083ef533356e1.m3u8?q=d0475082894a131707d75e3ae57d6608
+https://nokotan.anhkz.fr/channel/n2392e601/index.m3u8?q=d0475082894a131707d75e3ae57d6608
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r9dMc6l.png" group-title="PH",GMA I Heart Movies
+https://nokotan.anhkz.fr/channel/n696d5dc/index.m3u8?q=d0475082894a131707d75e3ae57d6608
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" tvg-logo="https://i.imgur.com/LB2vmMt.png" group-title="Religious",Hope Channel Philippines (1080p)
 https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
 #EXTINF:-1 tvg-id="IBC13.ph@SD" tvg-logo="https://i.imgur.com/1KaTUOo.png" group-title="PH",IBC 13 (480p) [Not 24/7]
