@@ -33,7 +33,7 @@ https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/5EmfGFw.png" group-title="PH", Asiaflix TV
 https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VRugxtN.png" group-title="PH", Asian Food Network (Cignal)
-https://thinkkast.dpdns.org/thinkkast/asianfoodnetwork_sd/versiglia/index.m3u8
+https://thinkkast.dpdns.org/udp/stb7395/asianfoodnetwork_sd/main/index.m3u8?st=1786340319295&exp=1786340919295&token=0d72ed84
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qDMmhpL.png" group-title="PH",AXN Asia (Cignal)
 https://thinkkast.dpdns.org/thinkkast/cg_axn_sd/versiglia/index.m3u8
 #EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph@SD" tvg-logo="https://i.imgur.com/iTH9Z0j.png" group-title="PH",Bilyonaryo News Channel (1080p)
