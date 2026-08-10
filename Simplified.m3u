@@ -29,7 +29,9 @@ http://136.239.158.18:6610/001/2/ch00000090990000001216/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="PH", Animax Asia
 http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApUjG9Pouw9ZPY2OjOhRVs72%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001853&contentid=ch00000000000000001853&videoid=ch00000090990000001315&recommendtype=0&userid=1839722974667&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKNK24RBBRLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="PH", Animax Asia (Cignal)
-https://thinkkast.dpdns.org/thinkkast/cg_animax_sd_new/versiglia/index.m3u8
+https://thinkkast.dpdns.org/udp/stb7395/cg_animax_sd_new/index.m3u8?st=1786342152441&exp=1786342752441&token=7364075a
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rqIXxr6.png" group-title="Animation",Animax NA
+https://animax.live/hls/stream.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/5EmfGFw.png" group-title="PH", Asiaflix TV
 https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VRugxtN.png" group-title="PH", Asian Food Network (Cignal)
