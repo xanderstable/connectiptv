@@ -93,7 +93,7 @@ https://epiconetv.itunerworldwide.workers.dev/master.live.m3u8
 #EXTINF:-1 tvg-id="FilAmTVNetwork.us@HD" tvg-logo="https://i.imgur.com/nRiApdI.png" group-title="General",FilAmTV Network (1080p)
 https://cdn.vegasplus.us/vegas/ftv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="FTV" tvg-logo="https://i.imgur.com/3aJEwaX.png" group-title="PH",FTV
+#EXTINF:-1 tvg-name="FTV" tvg-logo="https://i.imgur.com/3aJEwaX.png" group-title="PH",FTV (Overseas)
 https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/1338.m3u
 
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://static.wikia.nocookie.net/gmanetwork/images/f/f8/GMA_Network.png" group-title="PH",GMA [Not 24/7]
@@ -111,11 +111,11 @@ https://streams.comclark.com/pknsd/gtv/playlist.m3u8
 https://nokotan.anhkz.fr/channel/n2392e601/index.m3u8?q=d0475082894a131707d75e3ae57d6608
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r9dMc6l.png" group-title="PH",GMA I Heart Movies
 https://nokotan.anhkz.fr/channel/n696d5dc/index.m3u8?q=d0475082894a131707d75e3ae57d6608
-#EXTINF:-1 tvg-name="GMA LIFE TV" tvg-logo="https://i.imgur.com/1MuwbwC.png" group-title="PH",GMA LIFE TV
+#EXTINF:-1 tvg-name="GMA LIFE TV" tvg-logo="https://i.imgur.com/1MuwbwC.png" group-title="PH",GMA LIFE TV (Overseas)
 https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/2099.m3u
-#EXTINF:-1 tvg-name="GMA NEWS" tvg-logo="https://i.imgur.com/jGHWasv.png" group-title="PH",GMA NEWS
+#EXTINF:-1 tvg-name="GMA NEWS" tvg-logo="https://i.imgur.com/jGHWasv.png" group-title="PH",GMA NEWS (Overseas)
 https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/2100.m3u
-#EXTINF:-1 tvg-name="GMA PINOY TV" tvg-logo="https://i.imgur.com/oyVC2Yn.png" group-title="PH",GMA PINOY TV
+#EXTINF:-1 tvg-name="GMA PINOY TV" tvg-logo="https://i.imgur.com/oyVC2Yn.png" group-title="PH",GMA PINOY TV (Overseas)
 https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/2101.m3u
 #EXTINF:-1 tvg-name="GMA" tvg-logo="https://i.imgur.com/oyVC2Yn.png" group-title="PH",GMA (Overseas)
 https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/1335.m3u
@@ -135,7 +135,7 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 https://streams.comclark.com/pknsd/jeepney/playlist.m3u8
 #EXTINF:-1 tvg-id="KapamilyaChannel.ph@HD" tvg-logo="https://i.imgur.com/Z883BH7.png" group-title="PH",Kapamilya Channel HD
 http://136.239.173.2:6610/001/2/ch00000090990000001286/sec-f2-v1-a1.m3u8?JITPDRMType=NO&IASHttpSessionId=OTT119762220260531041449097343&AuthInfo=Tajaqa%2FdPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY6w65FFCygtQMRRIUPF0xuXe9OnZTxGvJPcGpQT0Y5Pwg%3D%3D&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=55&ztecid=ch00000090990000001286
-#EXTINF:-1 tvg-name="KAPATID" tvg-logo="" group-title="PH",KAPATID
+#EXTINF:-1 tvg-name="KAPATID" tvg-logo="https://i.imgur.com/wexTaIc.png" group-title="PH",KAPATID (Overseas)
 https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/1337.m3u
 
 #EXTINF:-1 tvg-id="kbsworld.ph@HD" tvg-name="KBS World" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World
@@ -229,7 +229,7 @@ https://cdn.vegasplus.us/vegas/vltv/playlist.m3u8
 #EXTINF:-1 tvg-id="TAPSports.ph@SD" tvg-logo="https://i.imgur.com/xb4yorf.png" group-title="Sports",TAP Sports (480p)
 http://136.239.173.3:6610/001/2/ch00000090990000001151/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=HLS&JITPDRMType=NO
 
-#EXTINF:-1 tvg-name="TFC" tvg-logo="https://i.imgur.com/vtd9GN2.png" group-title="PH",TFC
+#EXTINF:-1 tvg-name="TFC" tvg-logo="https://i.imgur.com/vtd9GN2.png" group-title="PH",TFC (US)
 https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm5ldzRrLmNjOjgwIiwibWFjIjoiMDA6MUE6Nzk6MDA6MDI6OTMiLCJzbiI6IjYzRDdEQzBBMTA4NkMiLCJkZXZpY2UiOiIxQTc3MzREQUM2QjM5MzJCRkZFMTA5QUNCMjY4MDU4MkExRjM0Mjg2OENCODM5OTdEQjJDREZCNUQ0ODU3MzAzIn0=/1336.m3u
 
 #EXTINF:-1 tvg-id="TV5.ph@SD" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="PH",TV5 (480p) [Not 24/7]
