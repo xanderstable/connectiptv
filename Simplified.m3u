@@ -38,7 +38,7 @@ https://animax.live/hls/stream.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/5EmfGFw.png" group-title="PH", Asiaflix TV
 https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VRugxtN.png" group-title="PH", Asian Food Network (Cignal)
-https://thinkkast.dpdns.org/udp/stb7395/asianfoodnetwork_sd/main/index.m3u8?st=1786404660523&exp=1786405260523&token=d0f3d621
+https://thinkkast.dpdns.org/hls/maxalari_93CIGNAL/asianfoodnetwork_sd/main/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qDMmhpL.png" group-title="PH",AXN Asia (Cignal)
 https://thinkkast.dpdns.org/udp/stb7395/cg_axn_sd/main/index.m3u8?st=1786342974512&token=f5a6b5bf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RMHDhII.png" group-title="PH",Bigscreen TV
