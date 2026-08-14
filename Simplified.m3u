@@ -1,6 +1,7 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SAJ2K2Q.png",Adventist Carbag I [Not 24/7]
-https://i.imgur.com/qxze0FO.mp4
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1786725329/ei/ce9-asq4GqOJ1d8PocmQ8AU/ip/112.201.207.138/id/0JvHxvXC9Ow.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-2aqu-c5ue.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AR3QkAmKT2A_dL4xO1klW4RFUS6DsbUNwMYsyjEK6j6CpMM4tj_vZHyYdVI4ky0ZKYK2KqETtUPDZftq/spc/KBGBcvEwOWrd0iuUpc-Up_kDEkfPXFkbDqQNObeLt24ELtw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1165000/met/1786703730,/mh/Pe/mm/44/mn/sn-2aqu-c5ue/ms/lva/mv/m/mvi/1/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946838,52089683/mt/1786703309/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAIgwDSNKZgs8RpHAf9UrOgsT8BelDJolLmDUWIoSc_LEAiAmy7R6_2bA7wmW1qC6UGU6wSybRnmBl_CN0tkNmxfz3w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgM1-vLhlkQtMv89c4Xdw7s-rv3xEMC_yBa45LkQR2N88CIFSS7rdKD3v8xi7V4BTyuGDMnopZwODVHFhE9HcDYQ3H/playlist/index.m3u8
+
 
 #EXTINF:-1 tvg-id="A2Z.ph@SD" tvg-logo="https://i.imgur.com/1zsdloF.png" group-title="PH",A2Z (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/a2z/playlist.m3u8
@@ -154,6 +155,8 @@ http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87H
 
 #EXTINF:-1 tvg-id="MindanowNetworkTV.ph@SD" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" group-title="General",Mindanow Network TV (1080p)
 https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cqwvfafqusggbqfkxkho.supabase.co/storage/v1/object/public/Photo/aisure-2e86504d-1ac4-476f-bc72-492e88983d4b.png" group-title="PH",Mr Yuso
+https://mryuso.porhibitum.workers.dev/master.live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="PH", MYX Philippines
 http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpnsWBpPBgeEj%2FSfIRshYPEytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001673&contentid=ch00000000000000001673&videoid=ch00000090990000001252&recommendtype=0&userid=1016303175118&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P65O1I3NW1XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-id="Net25.ph@SD" tvg-logo="https://i.imgur.com/bfs711P.png" group-title="PH",Net 25
@@ -1420,6 +1423,8 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d664
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d663468df153d786553381d0cf/019d663eb5471eb80e796d9bd9cac/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQyOTk0NjgsInBhdGgiOiIvbzIifQ.L-SUNpSPz805Ui4fbjcdTsRpk6mRF3SwAiTzHgm0Ngs
 #EXTINF:-1 tvg-id="tvN STORY.kr" tvg-name="tvN Story" group-title="General" tvg-logo="https://i.imgur.com/zy0bmH6.png",tvN Story
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6bc4668b153d786553381d0ec/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQzNjM2NTEsInBhdGgiOiIvbzIifQ.-0QUGM0zqXW65TAzKcResb8bf7kgdaMr3E8z-FKsyH4
+#EXTINF:-1, TvN sub ch1
+https://usa.aswim.workers.dev/https://jmp2.uk/stvp-KRBC4500001A5
 
 # ==========================================
 # [ Kids ]
