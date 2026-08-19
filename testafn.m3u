@@ -1,8 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f9/Asian_Food_Network_(2019-.n.v.).png",Asian Food Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d6f69611e9e94a1cba591f855b191362":"bbd319d36c1728a8e4cc6bb4a8ad12f4"}
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(AsianFoodNetwork)/master.mpd 
+
 #EXTINF:-1 tvg-id="MUSIC.ONE.ph" tvg-logo="https://example.com/music_logo.png" group-title="Music",Music One
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2706609bde2c416eb4741a7503d765ed:2706609bde2c416eb4741a7503d765ed
+#KODIPROP:inputstream.adaptive.license_key={"2706609bde2c416eb4741a7503d765ed":"2706609bde2c416eb4741a7503d765ed"}
 https://cnt1-streamer6.cdn.3bbtv.com:8443/3bb/live/206/206.mpd
 
 #EXTINF:-1,AFN
