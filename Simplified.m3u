@@ -138,7 +138,8 @@ https://gojoportaltom3u.gojosare123.workers.dev/t=eyJwb3J0YWwiOiJodHRwOi8vNGsxLm
 https://streams.comclark.com/pknsd/onemedia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" tvg-logo="https://i.imgur.com/LB2vmMt.png" group-title="Religious",Hope Channel Philippines (1080p)
-https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
+#  https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
 #EXTINF:-1 tvg-id="IBC13.ph@SD" tvg-logo="https://i.imgur.com/1KaTUOo.png" group-title="PH",IBC 13 (480p) [Not 24/7]
 https://streams.comclark.com/pknsd/ibc_13/playlist.m3u8
 #EXTINF:-1 tvg-id="HypeTV.ph" tvg-logo="https://i.imgur.com/inecSyY.png" group-title="PH",Hype TV
@@ -496,7 +497,8 @@ https://jstre.am/live/jsl:cZXINbwrFj6.m3u8
 #EXTINF:-1 tvg-id="HopeChannelNorthAmerica.us@SD" tvg-logo="https://i.imgur.com/2qXqajS.png" group-title="Religious",Hope Channel North America (1080p)
 https://jstre.am/live/jsl:0sUSK6VA7GT.m3u8
 #EXTINF:-1 tvg-id="HopeChannelPhilippines.ph" tvg-logo="https://i.imgur.com/LB2vmMt.png" group-title="Religious",Hope Channel Philippines (1080p)
-https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
+#  https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
 
 #EXTINF:-1 tvg-id="30ADarcizzleOffshore.us@SD" tvg-logo="https://i.imgur.com/Q4l2uao.png" group-title="Outdoor",30A Darcizzle Offshore (720p)
 https://30a-tv.com/darcizzle.m3u8
