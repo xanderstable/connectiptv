@@ -37,6 +37,8 @@ http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v8
 https://thinkkast.dpdns.org/udp/stb7395/cg_animax_sd_new/index.m3u8?st=1786342152441&token=7364075a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rqIXxr6.png" group-title="Animation",Animax NA
 https://animax.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="General;News",,Arirang (Converge)
+http://136.239.173.26:6610/001/2/ch00000090990000001107/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArA9GNo9at0BwcO0MP5gH5%2BsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001221&contentid=ch00000000000000001221&videoid=ch00000090990000001107&recommendtype=0&userid=1063586735163&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=53VZTWI9E8MXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155237188154&ispcode=55
 EXTINF:-1 tvg-logo="https://i.imgur.com/5EmfGFw.png" group-title="PH", Asiaflix TV
 https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VRugxtN.png" group-title="PH", Asian Food Network (Cignal)
@@ -74,6 +76,9 @@ https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rF7LmGj.png" group-title="PH",CNA Channel News Asia
 https://streams.comclark.com/pknsd/channel_news_asia/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rF7LmGj.png" group-title="PH",CNA (Converge)
+http://136.239.173.3:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqhARVluhpunJiYdQ%2BUDM8fsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1659725106067&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=WL3Z4DGO41EXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451820260101155237142593&ispcode=55
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pK8QuVP.png" group-title="PH", CNN International	
 http://136.239.159.20:6610/001/2/ch00000090990000001073/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrvgzXcrMUV80DAC2bRdJG9ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001113&contentid=ch00000000000000001113&videoid=ch00000090990000001073&recommendtype=0&userid=1018127260612&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=PPMBBFC1MGGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 tvg-name="CNN PHILPINES" tvg-logo="https://i.imgur.com/vgs91g9.png" group-title="PH",CNN PHILIPPINES
@@ -101,6 +106,9 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/index.m3u8?AuthInfo=v87H
 https://streams.comclark.com/pknsd/edgesports/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PSNp8VF.png" group-title="PH",Epic One TV
 https://epiconetv.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EvnLqgi.png" group-title="PH",EWTN
+http://136.158.97.2:6610/001/2/ch00000090990000001104/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArqe%2B6z8S0P4H4d709E7gynsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001180&contentid=ch00000000000000001180&videoid=ch00000090990000001104&recommendtype=0&userid=1412707822699&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JPPHPU2A1MXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449720260101155237980630&ispcode=55
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i1tYBgw.png" group-title="Sports", FITE 24/7 1
 https://a-cdn.klowdtv.com/live2/fite247_720p/chunks.m3u8
@@ -178,6 +186,9 @@ http://136.239.158.10:6610/001/2/ch00000090990000001340/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UcUmvLI.png" group-title="PH",Light TV
 https://streams.comclark.com/pknsd/light_tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UcUmvLI.png" group-title="PH",Light TV (Converge)
+http://136.239.159.20:6610/001/2/ch00000090990000001103/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqkZ6SnNx3gh97OtxQ2ygibsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001179&contentid=ch00000000000000001179&videoid=ch00000090990000001103&recommendtype=0&userid=1240130586471&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FTDK8F0A60AXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446520260101155237224368&ispcode=55
+
 #EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD" tvg-logo="https://i.imgur.com/q3UToRM.png" group-title="Travel",Living Asia Channel (1080p)
 https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1 tvg-id="LivingAsiaChannelsub1.ph@HD" tvg-logo="https://i.imgur.com/q3UToRM.png" group-title="Travel",Living Asia Channel sub ch1
@@ -207,6 +218,9 @@ https://streams.comclark.com/pknsd/one_sports/playlist.m3u8
 #EXTINF:-1 tvg-id="PBO.ph@SD" tvg-logo="https://i.imgur.com/XWeKCVb.png" group-title="PH",PBO
 http://136.239.173.10:6610/001/2/ch00000090990000001078/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=HLS&JITPDRMType=NO
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pDqk1gF.png" group-title="PH",Pinoy Extreme
+http://136.239.158.18:6610/001/2/ch00000090990000001098/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApC219uqwL0dVmslrkAjamFsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001222&contentid=ch00000000000000001222&videoid=ch00000090990000001098&recommendtype=0&userid=1869817604648&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=NKXBKKPYOEXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448020260101155237185089&ispcode=55
+
 #EXTINF:-1 tvg-logo=" " group-title="Sports",Premiere Football
 https://streams.comclark.com/pknhd/premier_football/playlist.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Sports",Premiere Sports
@@ -224,6 +238,8 @@ https://ptnglobal.sanmateocable.workers.dev/master.live.m3u8
 https://streams.comclark.com/pknsd/ptv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MMccHNd.png" group-title="PH",PTV 4 (Converge)
 http://136.239.173.3:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAogpxrMDVv1bZ%2FeMkgHZmwQsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1724481380384&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=G7YS6I1YWACXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445720260101155236145577&ispcode=55
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1UP7HVJ.png" group-title="TV", Rai Italia
+http://136.239.159.18:6610/001/2/ch00000090990000001099/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq%2FDUoNrO3rJTMQSZlDUFIEsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001235&contentid=ch00000000000000001235&videoid=ch00000090990000001099&recommendtype=0&userid=1127958632030&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KEK2TOK1TAXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448020260101155238185091&ispcode=55
 #EXTINF:-1 tvg-id="RockAction.ph@SD" tvg-name="Rock Action" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="PH",Rock Entertainment
 http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 #EXTINF:-1 tvg-id="RTMASEAN.my@SD" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="News",RTM ASEAN
